@@ -1,1 +1,1 @@
-# BoneSetting
+# BoneSetting--updating the readme file
